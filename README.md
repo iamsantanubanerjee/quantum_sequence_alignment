@@ -1,2 +1,2 @@
-# quantum_sequence_alignment
+# Quantum Sequence Alignment
 Implementing Quantum Sequence Alignment Algorithm
